@@ -20,7 +20,7 @@ https://doi.org/10.11588/heidok.00022135
 
 
 The software is also available as a plugin for QuickFit3.0
-https://github.com/jkriege2/QuickFit3/tree/fe33f46c8665a610e2e5bd6c14b0ea69cccec4eb/plugins/qfe_alexeval
+https://github.com/jkriege2/QuickFit3/tree/master/plugins/qfe_alexeval
 
 
 Requirements
