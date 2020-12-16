@@ -28,20 +28,21 @@ https://github.com/jkriege2/QuickFit3/tree/master/plugins/qfe_alexeval
 Screenshots
 ---
 Data import and burst search
-![BurstSearch](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalImport.png)
 
+![BurstSearch](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalImport.PNG)
 Burst statistics
-![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalBurstStatistics.png)
+
+![BurstStatistics](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalBurstStatistics.PNG)
 
 FRET histograms
-![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalAlexHist.png)
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalAlexHist.PNG)
 
 Burst view (individual burst analysis including FCS)
-![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalBurstView.png)
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalBurstView.PNG)
 
 
 species-selective FCS
-![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalFCS.png)
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalFCS.PNG)
 
 
 
