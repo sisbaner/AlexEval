@@ -1,7 +1,9 @@
 # AlexEval
-====
+
 Evaluation software for single molecule FRET measurements with alternating laser excitation
 
+
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/ALEXEvalHistScreen.png)
 
 Introduction
 ---
@@ -21,6 +23,27 @@ https://doi.org/10.11588/heidok.00022135
 
 The software is also available as a plugin for QuickFit3.0
 https://github.com/jkriege2/QuickFit3/tree/master/plugins/qfe_alexeval
+
+
+Screenshots
+---
+Data import and burst search
+![BurstSearch](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalImport.png)
+
+Burst statistics
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalBurstStatistics.png)
+
+FRET histograms
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalAlexHist.png)
+
+Burst view (individual burst analysis including FCS)
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalBurstView.png)
+
+
+species-selective FCS
+![Screenshot](https://raw.githubusercontent.com/sisbaner/AlexEval/main/screenshots/screenshotAlexEvalFCS.png)
+
+
 
 
 Requirements
