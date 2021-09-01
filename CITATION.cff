@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Isbaner"
+  given-names: "Sebastian"
+title: "AlexEval"
+version: 1.0
+doi: 
+date-released: 2013-07-31
+url: "https://github.com/sisbaner/AlexEval"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "De"
+    given-names: "Madhura"
+  - family-names: "Öztürk"
+    given-names: "Mehmet Ali"
+  - family-names: "Isbaner"
+    given-names: "Sebastian"
+  - family-names: "Tóth"
+    given-names: "Katalin"
+  - family-names: "Wade"
+    given-names: "Rebecca C."
+  doi: "10.1016/j.bpj.2021.07.012"
+  journal: "Biophysical Journal"
+  month: 7
+#  start: 1 # First page number
+#  end: 10 # Last page number
+  title: "DNA sequence-dependent positioning of the linker histone in a nucleosome: A single-pair FRET study"
+  issue: 0
+  volume: 0
+  year: 2021
+   
