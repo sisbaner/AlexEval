@@ -18,7 +18,8 @@ This software performs data analysis of single molecule FRET measurements. The g
 
 
 Exemplary usage can be found here: 
-https://doi.org/10.11588/heidok.00022135
+https://doi.org/10.11588/heidok.00022135 and 
+https://doi.org/10.1016/j.bpj.2021.07.012
 
 
 The software is also available as a plugin for QuickFit3.0
